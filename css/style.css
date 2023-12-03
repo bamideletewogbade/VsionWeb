@@ -820,7 +820,7 @@ ul.dropdown-menu li {
   }
 }
 .slider {
-  background: url("../images/blog/blog-post-2.jpg") no-repeat;
+  background: url("../newImages/bg1.png") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -979,7 +979,7 @@ ul.dropdown-menu li {
 }
 
 .feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../newImages/purple_bg.png");
   background-position: 50% 94px;
   display: block;
   position: relative;
